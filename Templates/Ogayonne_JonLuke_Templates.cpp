@@ -20,11 +20,11 @@ int main() {
 	// Floats and integers for the main. 
 	double a = 7.0;
 	float b = 5.0f;
-	int c = 3;
+	int d = 3;
 	// display each value in half.
 	cout << half(a) << endl;
 	cout << half(b) << endl;
-	cout << half(c) << endl;
+	cout << half(d) << endl;
 	// Terminate program.
 	return 0;
 }
